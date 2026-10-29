@@ -1,0 +1,22 @@
+{
+  "name": "rust-session-tracker",
+  "displayName": "Rust Session Tracker",
+  "programType": "session-tracker",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Session notes",
+    "Resource records",
+    "Activity timeline"
+  ],
+  "topics": [
+    "rust-session-tracker",
+    "rust-tools",
+    "rust-menu",
+    "rust-settings",
+    "rust-configs",
+    "rust-session-notes",
+    "rust-resource-records"
+  ]
+}
